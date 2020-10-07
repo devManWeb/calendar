@@ -1,7 +1,6 @@
 "use strict";
 
 /**
- * 
  * @param {String} tagName 
  */
 function DOMRemover(tagName){
@@ -14,7 +13,6 @@ function DOMRemover(tagName){
 }
 
 /**
- * Impure function
  * @param {String} title 
  */
 function newDOMTitle(title){
@@ -26,7 +24,6 @@ function newDOMTitle(title){
 }
 
 /**
- * Impure function
  * @param {Object} dateObject 
  */
 function newDOMCalendar(dateObject){
