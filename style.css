@@ -17,11 +17,15 @@ button:hover{
     background-color: #0099ff;
 }
 
-#container-flex{
-    display: flex; /* or inline-flex */
+#container-flex, #input-div{
+    display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+}
+
+#input-div input{
+    margin:10px;
 }
 
 #calendar-div{
