@@ -1,5 +1,5 @@
 # calendar
-A simple calendar.
+A simple HTML calendar.
 
 ## Npm commands
 
